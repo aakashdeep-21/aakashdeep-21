@@ -1,15 +1,16 @@
 <!-- ================================================================== -->
-<!--  🔥 GITHUB PROFILE README                                          -->
-<!--  Replace every occurrence of YOUR_USERNAME with your GitHub        -->
-<!--  username (Ctrl+F → Replace All) and you're done!                  -->
+<!--  🔥 GITHUB PROFILE README — RELIABLE STATS EDITION                 -->
+<!--  Replace YOUR_USERNAME everywhere (Ctrl+F → Replace All)           -->
+<!--                                                                    -->
+<!--  NOTE: If you deploy your own github-readme-stats instance,        -->
+<!--  replace "github-readme-stats.vercel.app" with your own domain     -->
+<!--  in the STATS section below for 100% uptime.                       -->
 <!-- ================================================================== -->
 
 <div align="center">
 
-<!-- Animated typing banner -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+YOUR_NAME+%F0%9F%91%8B;Developer+%7C+Builder+%7C+Problem+Solver;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 
-<!-- Profile view counter -->
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=f75c7e" alt="Profile views" />
 
 </div>
@@ -18,7 +19,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **[your current project]**
+- 🔭 Currently working on **[your current project]**
 - 🌱 Currently learning **[technology you're learning]**
 - 💬 Ask me about **[your expertise]**
 - ⚡ Fun fact: **[something interesting about you]**
@@ -38,20 +39,48 @@
 
 ## 📊 GitHub Stats
 
+<!-- PRIMARY: github-profile-summary-cards (very reliable, rarely rate-limited) -->
+
 <div align="center">
 
-<!-- Main stats card -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-
-<!-- Top languages card -->
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=radical" alt="Profile Details" />
 
 </div>
 
 <div align="center">
 
-<!-- Streak stats -->
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=radical" alt="Repos per Language" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=radical" alt="Most Commit Language" />
+
+</div>
+
+<div align="center">
+
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=radical" alt="Stats" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=radical&utcOffset=5.5" alt="Productive Time" />
+
+</div>
+
+---
+
+## ⚡ Classic Stat Cards
+
+<!-- These use github-readme-stats. If they show "Error fetching resource",
+     the public instance is rate-limited — deploy your own fork to Vercel
+     and swap the domain below. Everything else on this page will still work. -->
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400" alt="GitHub Stats" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<!-- Streak stats — hosted separately, usually more stable -->
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
 
 </div>
 
@@ -75,13 +104,6 @@
 
 </div>
 
-<!-- Snake animation eating your contributions (requires setup — see note below) -->
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
 ---
 
 ## 🔥 Featured Projects
@@ -89,10 +111,10 @@
 <div align="center">
 
 <a href="https://github.com/YOUR_USERNAME/REPO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_1&theme=radical&hide_border=true" alt="Repo 1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_1&theme=radical&hide_border=true&cache_seconds=86400" alt="Repo 1" />
 </a>
 <a href="https://github.com/YOUR_USERNAME/REPO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_2&theme=radical&hide_border=true" alt="Repo 2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_2&theme=radical&hide_border=true&cache_seconds=86400" alt="Repo 2" />
 </a>
 
 </div>
