@@ -1,28 +1,68 @@
-<h1 align="center">Hi 👋, I'm Aakashdeep</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashdeep-21&label=Profile%20views&color=0e75b6&style=flat" alt="aakashdeep-21" /> </p>
+# Hey, I'm Aakashdeep ⚡
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakashdeep-21" alt="aakashdeep-21" /></a> </p>
+**Software Engineer · Trading Systems & Backend Infrastructure @ CoinSwitch**
 
-- 🌱 I’m currently learning **ReactJS & MySQL**
+I build the machinery behind crypto markets — order execution engines, market-making strategies,<br/>
+and the fail-safes that let real money move without anyone losing sleep.
 
-- 👨‍💻 All of my projects are available at [https://aakashdeep-portfolio21122019.netlify.app/](https://aakashdeep-portfolio21122019.netlify.app/)
+<br/>
 
-- 📫 How to reach me **aakashdeepkundu@gmail.com**
+<a href="https://linkedin.com/in/aakashdeep21"><img src="https://img.shields.io/badge/LinkedIn-aakashdeep21-1a1b27?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+&nbsp;
+<a href="mailto:aakashdeep100702@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hello-1a1b27?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+&nbsp;
+<a href="https://leetcode.com/aakashdeep21"><img src="https://img.shields.io/badge/LeetCode-aakashdeep21-1a1b27?style=flat-square&logo=leetcode&logoColor=FFA116" alt="LeetCode"/></a>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wT2oq4LRapsJCWI76NkFQ9bzTT8dxait/view?usp=sharing](https://drive.google.com/file/d/1wT2oq4LRapsJCWI76NkFQ9bzTT8dxait/view?usp=sharing)
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aakashdeep21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakashdeep21" height="30" width="40" /></a>
-<a href="https://instagram.com/aakashdeep_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aakashdeep_21" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aakashdeep21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aakashdeep21" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 🧭 What I do
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakashdeep-21&show_icons=true&locale=en" alt="aakashdeep-21" /></p>
+- ⚙️ **Order execution & market making** — I design and productionize trading systems in **Go** and **Python**: decoupled order execution, cross-exchange market-making, futures hedging, and inventory rebalancing across **Binance, Bybit & KuCoin**.
+- 🛡️ **Real-money engineering** — idempotent writes, reconciliation loops, kill switches, drift auto-repair, defense-in-depth authorization. If it touches money, it fails safe — and loudly.
+- 📈 **Observability as a feature** — Prometheus metrics, Grafana dashboards, and alerting designed to catch silent stalls before they cost anything.
+- 🧪 **Tests ship with the code** — table-driven suites, parity tests, e2e harnesses. Confidence is part of the deliverable, not an afterthought.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashdeep-21&" alt="aakashdeep-21" /></p>
+## 🛠️ Tools of the trade
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Go-1a1b27?style=flat-square&logo=go&logoColor=00ADD8" alt="Go"/>
+<img src="https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
+<img src="https://img.shields.io/badge/Java-1a1b27?style=flat-square&logo=openjdk&logoColor=E76F00" alt="Java"/>
+<img src="https://img.shields.io/badge/C%2B%2B-1a1b27?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++"/>
+
+<img src="https://img.shields.io/badge/FastAPI-1a1b27?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-1a1b27?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/PostgreSQL-1a1b27?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Redis-1a1b27?style=flat-square&logo=redis&logoColor=FF4438" alt="Redis"/>
+<img src="https://img.shields.io/badge/MongoDB-1a1b27?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Kafka-1a1b27?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka"/>
+
+<img src="https://img.shields.io/badge/Kubernetes-1a1b27?style=flat-square&logo=kubernetes&logoColor=326CE5" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/Docker-1a1b27?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker"/>
+<img src="https://img.shields.io/badge/AWS-1a1b27?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-1a1b27?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Prometheus-1a1b27?style=flat-square&logo=prometheus&logoColor=E6522C" alt="Prometheus"/>
+<img src="https://img.shields.io/badge/Grafana-1a1b27?style=flat-square&logo=grafana&logoColor=F46800" alt="Grafana"/>
+
+</div>
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aakashdeep-21&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats"/>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+<sub>Make it correct · make it observable · then make it fast</sub>
+</div>
