@@ -23,8 +23,7 @@ I build backend systems and the interfaces on top of them — currently spending
 most of my time on distributed messaging infrastructure in Java.
 
 - 🔭 Building **[Streamix](https://github.com/aakashdeep-21/streamix)**, a Kafka-like message broker from scratch
-- 🌱 Digging into **[what you're learning right now]**
-- 💬 Happy to talk about **distributed systems, Spring Boot, and React**
+- 💬 Happy to talk about **distributed systems, Spring Boot, Java**
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/aakashdeep21)
 
 ---
