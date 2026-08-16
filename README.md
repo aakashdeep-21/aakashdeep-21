@@ -1,55 +1,80 @@
-<!-- ================================================================== -->
-<!--  Profile README — self-hosted stats                                -->
-<!--  The stats card below is a static SVG built by GitHub Actions.     -->
-<!--  Nothing here depends on a third-party server.                     -->
-<!-- ================================================================== -->
-
 <div align="center">
 
-# Hey, I'm YOUR_NAME 👋
-
-**[one line about what you build]**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=900&color=5CCFE6&center=true&vCenter=true&width=640&lines=Hey%2C+I'm+Aakashdeep+%F0%9F%91%8B;Backend+systems+%C2%B7+Web+%C2%B7+Automation;Currently+building+a+message+broker" alt="Aakashdeep" />
 
 </div>
 
-<!-- Auto-switches with the viewer's GitHub theme -->
+<br>
+
+<!-- Self-hosted stats card. Rebuilt daily by GitHub Actions and served as a
+     static file from this repo — no third-party service in the path.
+     Auto-switches with the viewer's GitHub theme. -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/stats-midnight.svg">
   <source media="(prefers-color-scheme: light)" srcset="dist/stats-daylight.svg">
-  <img alt="GitHub statistics" src="dist/stats-midnight.svg">
+  <img alt="Aakashdeep's GitHub statistics" src="dist/stats-midnight.svg">
 </picture>
 
 ---
 
-## What I'm working on
+## About
 
-- 🔭 **[Project name]** — [one line on what it does]
-- 🌱 Currently digging into **[technology]**
-- 💬 Happy to talk about **[your areas]**
+I build backend systems and the interfaces on top of them — currently spending
+most of my time on distributed messaging infrastructure in Java.
+
+- 🔭 Building **[Streamix](https://github.com/aakashdeep-21/streamix)**, a Kafka-like message broker from scratch
+- 🌱 Digging into **[what you're learning right now]**
+- 💬 Happy to talk about **distributed systems, Spring Boot, and React**
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/aakashdeep21)
 
 ---
 
 ## Tools I reach for
 
-<img src="https://skillicons.dev/icons?i=ts,python,go,rust,react,nextjs,nodejs,postgres,docker,kubernetes,aws,linux&perline=12" alt="Tech stack" />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,maven,docker,postgres,js,react,nodejs,python,dart,flutter,html,css,git,postman&perline=8" alt="Tech stack" />
+
+</div>
 
 ---
 
 ## Selected work
 
+### 🌊 [Streamix](https://github.com/aakashdeep-21/streamix) &nbsp;·&nbsp; Java, Spring Boot, Docker
+
+A Kafka-like message broker, built from the ground up. REST API over topics →
+partitions → append-only logs, with at-least-once delivery semantics and
+per-partition ordering guarantees.
+
+- **Consumer groups with broker-side rebalancing** — clients stay dumb; the broker
+  owns assignment, evicts consumers on session timeout, and hands their partitions
+  to a new owner that resumes from the last commit
+- **Durable offsets** — write-through append-only log per partition plus an offsets
+  journal, with startup replay that truncates torn records
+- **Deployed on Railway** via a multi-stage Dockerfile, 12-factor config throughout
+
+<br>
+
+**Other projects**
+
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **[repo-one](https://github.com/YOUR_USERNAME/repo-one)** | [one line] | TypeScript, Postgres |
-| **[repo-two](https://github.com/YOUR_USERNAME/repo-two)** | [one line] | Go, Redis |
-| **[repo-three](https://github.com/YOUR_USERNAME/repo-three)** | [one line] | Python |
+| **[dma-ui](https://github.com/aakashdeep-21/dma-ui)** | Front-end for the DMA platform | JavaScript |
+| **[alert-manager-for-price](https://github.com/aakashdeep-21/alert-manager-for-price)** | Watches prices and fires alerts when thresholds are hit | Python |
 
 ---
 
 ## Elsewhere
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:you@example.com)
-[![Site](https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://your-site.com)
+<div align="center">
 
-<sub>Stats card regenerates daily via GitHub Actions — no external services involved.</sub>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aakashdeep21)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aakashdeep_21)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aakashdeep-21)
+
+</div>
+
+<div align="center">
+<sub>Stats card rebuilds daily via GitHub Actions — no external services in the path.</sub>
+</div>
